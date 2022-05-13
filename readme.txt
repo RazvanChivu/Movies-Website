@@ -1,3 +1,4 @@
+The website can be reviewed easily by checking the pictures: website_picture, login_picture and admin_picture
 login/register and dark mode buttons are functional
 when logged in with admin user we have access to the admin page by pressing the "Salut, user" button
 in the admin page we can add/delete/update users/movies/series
